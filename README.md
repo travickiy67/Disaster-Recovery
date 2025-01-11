@@ -40,10 +40,10 @@
 
 ---
 
-**Файл keepalived.conf**
+**Файл keepalived.conf**  
 [файл](https://github.com/travickiy67/Disaster-Recovery/blob/main/files/keepalived.conf)  
 
-**Файл keepalived.sh**
+**Файл keepalived.sh**  
 [файл](https://github.com/travickiy67/Disaster-Recovery/blob/main/files/keepalived.sh)  
 **Скрин 1**  
 ![alt text](https://github.com/travickiy67/Disaster-Recovery/blob/main/img/img1.1.png)  
