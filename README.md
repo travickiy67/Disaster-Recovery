@@ -12,6 +12,16 @@
 ### Решение 1
 [Cхемa](https://github.com/travickiy67/Disaster-Recovery/raw/refs/heads/main/files/HSRP.pkt) файл HSRP.pkt.  
 
-## Скрины начтройки
+### Скрины наcтройки
 
-[скрин1](https://github.com/travickiy67/Disaster-Recovery/blob/main/img/img01.png) 
+**Cкрин 1**  
+![alt text](https://github.com/travickiy67/Disaster-Recovery/blob/main/img/img01.png)   
+
+**Скрин 2**
+![alt text](https://github.com/travickiy67/Disaster-Recovery/blob/main/img/img02.png)
+
+**Скрин 3**
+![alt text](https://github.com/travickiy67/Disaster-Recovery/blob/main/img/img03.png)
+
+**Скрин 4**
+![alt text](https://github.com/travickiy67/Disaster-Recovery/blob/main/img/img04.png)
