@@ -10,4 +10,8 @@
 
 ---
 ### Решение 1
-[Cхемa](https://github.com/travickiy67/Disaster-Recovery/raw/refs/heads/main/files/HSRP.pkt) в формате pkt.
+[Cхемa](https://github.com/travickiy67/Disaster-Recovery/raw/refs/heads/main/files/HSRP.pkt) файл HSRP.pkt.  
+
+## Скрины начтройки
+
+[скрин1](https://github.com/travickiy67/Disaster-Recovery/blob/main/img/img01.png) 
